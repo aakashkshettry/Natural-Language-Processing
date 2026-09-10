@@ -1,0 +1,12 @@
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+Local/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
